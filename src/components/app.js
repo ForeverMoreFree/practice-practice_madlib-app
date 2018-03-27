@@ -4,7 +4,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <h1>DevCamp React Starter</h1>
+        <h1>This is my updated header!</h1>
       </div>
     );
   }

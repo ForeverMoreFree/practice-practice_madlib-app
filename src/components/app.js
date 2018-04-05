@@ -8,7 +8,7 @@ export default class App extends Component {
         <div className="backgroundSkew">
 
           <div className="madlib-heading">
-            <h1>Bottega Mad Libs</h1>  
+            <h1>ForevermoreFree's Mad Libs</h1>  
             <div className="madlib-subheading">
               Fill out the fields below and click the generate button<br/>to see the Mad Lib story.
             </div>
